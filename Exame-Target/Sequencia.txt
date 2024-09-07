@@ -1,0 +1,7 @@
+Logica da primeira expressão: numeros ímpares; próximo número:9
+Logica da segunda expressão: Potência de 2; próximo número:128
+Logica da terceira expressão: números em ordem elevados ao quadrado; próximo número:49
+Logica da quarta expressão: números pares elevado ao quadrado; próximo número: 100
+Logica da quinta expressão: Sequencia de Fibonacci; próximo número:13
+Logica da sexta expressão: Números que quando escritos por extenso começam com d; próximo número:200
+
